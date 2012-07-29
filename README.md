@@ -2,7 +2,7 @@
 
 Esse é um exemplo de aplicação aonde o redis pode ser empregado.
 
-O mesmo se refere a palestra "Redis - Um banco chave valor", ministrada no PHPMS CONF 2012
+[O mesmo se refere a palestra "Redis - Um banco chave valor", ministrada no PHPMS CONF 2012](https://speakerdeck.com/u/kinncj/p/phpmsconf2012-redis-um-banco-chave-valor)
 
 License Information
 ===================
